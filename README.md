@@ -1,6 +1,7 @@
 # Call-Me-Maybe 📞
 ```
-Maybe we can call...
+This would be much easier
+And it's not what you think it is!...
 ```
 _Call Me Maybe_ is an app to contact people through WhatsApp without having to add them into your contact list first!
 
